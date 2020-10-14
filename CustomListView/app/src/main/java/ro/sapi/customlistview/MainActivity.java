@@ -43,9 +43,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        CustomListAdapter whatever = new CustomListAdapter(this, nameArray, infoArray, imageArray);
-        listView = (ListView) findViewById(R.id.listviewID);
-        listView.setAdapter(whatever);
+        //ToDo
 
 
 

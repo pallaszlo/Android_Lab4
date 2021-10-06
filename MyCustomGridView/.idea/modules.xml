@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyCustomGridView.iml" filepath="$PROJECT_DIR$/MyCustomGridView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyCustomGridView.iml" filepath="$PROJECT_DIR$/MyCustomGridView.iml" group="MyCustomGridView" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MyCustomGridView/app" />
     </modules>
   </component>
 </project>
